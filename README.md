@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericabdye
 - 👀 I’m interested in ...  foreign languages, surfing, mountain biking, and the seaweed industry.
-- 🌱 I’m currently learning ... Pytho
+- 🌱 I’m currently learning ... Python, R
 - 💞️ I’m looking to collaborate on ... nearly any project that neccessitates Python.
 - 📫 How to reach me ... ericabdye@gmail.com
 
